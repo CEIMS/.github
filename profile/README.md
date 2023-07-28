@@ -1,12 +1,17 @@
-## Hi there 👋
+# CEIMS
 
-<!--
+![CEIMS LOGO](CEIMS-LOGO.png)
+CEIMS, Complete Educational Institution Management System, is an official github repository for the CEIMS Team.
 
-**Here are some ideas to get you started:**
+## About CEIMS
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+CEIMS is a collection of various aspects for providing the fully functional centralized educational institution management system which can be effectively monitored by the person or organization with required previlages. The features will include the following:
+
+- **Koleji**, a School / College Management System.
+- **StudentKompass**, a UI interface for students.
+- **EduKee**, a higher level governing system for **Koleji** (e.g University).
+- And others.
+
+## Getting Started
+
+CEIMS is nothing but a collection of such services mentioned above. So, please follow the contributing guidelines for respective projects from their respective repositories.
