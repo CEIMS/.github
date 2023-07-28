@@ -1,4 +1,4 @@
-![CEIMS LOGO]((https://www.udrop.com/KqVL/CEIMS-LOGO.png)
+![CEIMS LOGO](https://www.udrop.com/KqVL/CEIMS-LOGO.png)
 
 # CEIMS
 
