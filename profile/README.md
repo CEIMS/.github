@@ -1,6 +1,7 @@
+![CEIMS LOGO](CEIMS-LOGO.png)
+
 # CEIMS
 
-![CEIMS LOGO](CEIMS-LOGO.png)
 CEIMS, Complete Educational Institution Management System, is an official github repository for the CEIMS Team.
 
 ## About CEIMS
