@@ -1,4 +1,4 @@
-![CEIMS LOGO](https://www.udrop.com/KqVL/CEIMS-LOGO.png)
+![CEIMS LOGO](https://www.udrop.com/cache/plugins/filepreviewer/1066613/21c09a5205e2d6734796d6748ab9775f4c2b5106b3cf99cb356e9a1015efca6f/1100x800_cropped.jpg)
 
 # CEIMS
 
